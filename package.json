@@ -4,7 +4,7 @@
   "description": "Simple claculator",
   "main": "index.js",
   "author": "@hsotoaravena",
-  "repository": "https://github.com/hsotoaravena/simple-sky",
+  "repository": "https://github.com/hsotoaravena/simple-claculator",
   "license": "ISC",
   "keywords": [
     "simple",
