@@ -1,0 +1,15 @@
+{
+  "name": "simple-claculator",
+  "version": "1.0.0",
+  "description": "Simple claculator",
+  "main": "index.js",
+  "author": "@hsotoaravena",
+  "repository": "https://github.com/hsotoaravena/simple-sky",
+  "license": "ISC",
+  "keywords": [
+    "simple",
+    "app"
+  ],
+  "dependencies": {
+  }
+}
